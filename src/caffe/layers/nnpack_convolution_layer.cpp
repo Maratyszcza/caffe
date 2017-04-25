@@ -1,6 +1,5 @@
 #ifdef USE_NNPACK
 #include <cerrno>
-#include <cstdint>
 #include <cstdlib>
 
 #include "nnpack.h"
